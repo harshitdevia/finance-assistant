@@ -1,0 +1,14 @@
+# Environment variables (contains the real Anthropic API key — never commit)
+.env
+.env.local
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store

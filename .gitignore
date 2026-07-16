@@ -1,0 +1,14 @@
+node_modules/
+venv/
+__pycache__/
+*.pyc
+dist/
+dist-ssr/
+.env
+.env.local
+*.log
+logs
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store

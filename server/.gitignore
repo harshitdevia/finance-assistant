@@ -1,0 +1,17 @@
+# Environment variables (contains real DB URI, JWT secret, API keys — never commit)
+.env
+.env.local
+
+# Dependencies
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
